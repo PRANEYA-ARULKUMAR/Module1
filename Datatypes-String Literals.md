@@ -1,5 +1,5 @@
 # Datatypes-Read and Print a String in Python
-
+# REG NO:212224110045
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
 
@@ -10,6 +10,14 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
 ## Output
 
+![Screenshot 2025-05-19 202424](https://github.com/user-attachments/assets/7dc3ae2a-c040-4fdd-b7a5-ff6b55cd75ce)
+
 ## Result
+
+Thus, the program has been successfully execute.
